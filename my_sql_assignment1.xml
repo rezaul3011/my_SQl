@@ -1,0 +1,62 @@
+<DATA>
+
+	<ROW>
+		<mont>jan</mont>
+		<product_sales>fruits</product_sales>
+		<sales>45000</sales>
+	</ROW>
+
+	<ROW>
+		<mont>jan</mont>
+		<product_sales>fruits</product_sales>
+		<sales>45000</sales>
+	</ROW>
+
+	<ROW>
+		<mont>jan</mont>
+		<product_sales>vegetables</product_sales>
+		<sales>67000</sales>
+	</ROW>
+
+	<ROW>
+		<mont>jan</mont>
+		<product_sales>dairy</product_sales>
+		<sales>55000</sales>
+	</ROW>
+
+	<ROW>
+		<mont>feb</mont>
+		<product_sales>fruits</product_sales>
+		<sales>42000</sales>
+	</ROW>
+
+	<ROW>
+		<mont>feb</mont>
+		<product_sales>vegetables</product_sales>
+		<sales>32000</sales>
+	</ROW>
+
+	<ROW>
+		<mont>feb</mont>
+		<product_sales>dairy</product_sales>
+		<sales>52000</sales>
+	</ROW>
+
+	<ROW>
+		<mont>march</mont>
+		<product_sales>fruits</product_sales>
+		<sales>61000</sales>
+	</ROW>
+
+	<ROW>
+		<mont>march</mont>
+		<product_sales>vegetables</product_sales>
+		<sales>43000</sales>
+	</ROW>
+
+	<ROW>
+		<mont>march</mont>
+		<product_sales>dairy</product_sales>
+		<sales>92000</sales>
+	</ROW>
+</DATA>
